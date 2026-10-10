@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@theme {
+  --color-coir-ivory: #fcfcf4;
+  --color-coir-leaf: #70b200;
+  --color-coir-primary: #054019;
+  --color-coir-dark: #02260f;
+  --color-coir-muted: #e6edd9;
+}
+
+html {
+  scroll-behavior: smooth;
+}
